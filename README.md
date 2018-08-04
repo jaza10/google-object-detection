@@ -10,7 +10,7 @@ https://github.com/OlafenwaMoses/ImageAI/tree/master/imageai/Detection
 The notebook accepts an image as an input and outputs the image with the predicted bounding boxes.
 The notebook also outputs the prediction string for each detected object and bounding box.
 
-[!picture]./images/output/0a0a615629231821new.jpg
+![picture](./images/output/0a0a615629231821new.jpg)
 
 To Dos:
 - Match image detections to Google classes
